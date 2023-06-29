@@ -1,6 +1,5 @@
 ## 🔗Project Link
-https://html5-css3-project-05.netlify.app/
-
+https://crypto-landing-site.vercel.app/
 
 ## ✨ Project-5: Crypto Landing Page ✨
 
