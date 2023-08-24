@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://crypto-landing-site.vercel.app/
+https://vishal-kumaar.github.io/Project-5-Crypto-Landing-Page/
 
 ## ✨ Project-5: Crypto Landing Page ✨
 
